@@ -1,4 +1,4 @@
-# Dark-Theme-Example
+# Dark-Mode-Example
 
 <table>
   <tr>
